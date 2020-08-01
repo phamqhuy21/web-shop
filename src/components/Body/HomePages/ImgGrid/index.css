@@ -1,0 +1,43 @@
+.grid {
+    display: flex;
+    justify-content: center;
+}
+
+.grid-container {
+    margin: 1em 0em;
+    width: 90%;
+    height: 35em;
+
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    background-color: #f5f5f5;
+}
+
+.grid-container > div {
+    background-color: #262626;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.item1 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+
+    overflow: hidden;
+}
+
+.item4 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+
+    overflow: hidden;
+}
+
+.item1,
+.item2 {
+    overflow: hidden;
+}

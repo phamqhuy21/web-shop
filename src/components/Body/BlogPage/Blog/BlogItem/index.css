@@ -1,0 +1,16 @@
+.blog-item {
+    width: 100%;
+    height: 20rem;
+}
+
+.blog-item .blog-item-img {
+    width: 100%;
+    height: 70%;
+
+    /* background-color: #000000; */
+}
+
+.blog-item .blog-item-content {
+    font-size: 1rem;
+    font-weight: bold;
+}

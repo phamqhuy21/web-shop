@@ -1,0 +1,52 @@
+.product-cover {
+    width: 100%;
+    height: 30rem;
+}
+
+.product-img {
+    width: 100%;
+    height: 75%;
+    /*  background: #222222; */
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*  background-size: cover; */
+}
+
+.product-img:hover {
+    cursor: pointer;
+}
+
+.product-content {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.product-content a {
+    position: relative;
+
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.2rem;
+}
+
+.product-content p {
+    font-weight: bold;
+}
+
+.product-content a:hover::after {
+    width: 100%;
+    left: 0;
+}
+
+.product-content a::after {
+    bottom: 0;
+    content: '';
+    height: 1px;
+    left: 0;
+
+    position: absolute;
+    background: #262626;
+
+    transition: width 1s ease 0s, left 0.5s ease 0s;
+    width: 0;
+}

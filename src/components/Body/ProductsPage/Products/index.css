@@ -1,0 +1,22 @@
+.product-container {
+    margin: auto;
+}
+
+.product-container > div {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.product-title {
+    width: 40%;
+    margin: auto;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-gap: 1%;
+
+    background-color: #ffffff;
+}

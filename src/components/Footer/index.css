@@ -1,0 +1,87 @@
+.footer {
+    margin-top: 2rem;
+    width: 100%;
+
+    display: flex;
+
+    box-shadow: 1rem 0 0.3rem 0.2rem #d6d6d6;
+}
+
+.contact-footer {
+    width: 20%;
+    height: 15rem;
+
+    padding-left: 2%;
+
+    background-color: #fff;
+}
+
+.contact-footer > div > img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.service-footer {
+    width: 20%;
+    height: 15rem;
+}
+
+.service-footer .title-service {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.service-footer > .content-service > div {
+    margin-bottom: 0.5rem;
+}
+
+.products-footer {
+    width: 40%;
+    height: 15rem;
+}
+
+.products-footer .title-products {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.products-footer > .content-products > div {
+    margin-bottom: 1rem;
+}
+
+.products-footer .content-products {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.social-footer {
+    width: 20%;
+    height: 13rem;
+
+    background-color: #e5e5e5;
+}
+
+.footer a {
+    text-decoration: none;
+
+    color: black;
+
+    position: relative;
+}
+
+.footer a:hover::after {
+    width: 100%;
+    left: 2;
+}
+
+.footer a::after {
+    top: 4;
+    content: '';
+    display: block;
+    height: 1px;
+    left: 2;
+    position: absolute;
+    background: #262626;
+    transition: width 1s ease 0s, left 0.5s ease 0s;
+    width: 0;
+}

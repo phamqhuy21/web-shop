@@ -1,0 +1,808 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "type": "vest công sở",
+            "product": [
+                {
+                    "id": 1,
+                    "product": {
+                        "name": "áo vest kẻ nâu LH47",
+                        "price": "3050000",
+                        "img": "/products/vest1.png"
+                    }
+                },
+                {
+                    "id": 2,
+                    "product": {
+                        "name": "áo vest xanh tt trơn",
+                        "price": "2900000",
+                        "img": "/products/vest2.png"
+                    }
+                },
+                {
+                    "id": 3,
+                    "product": {
+                        "name": "áo vest xanh trơn",
+                        "price": "2400000",
+                        "img": "/products/vest3.png"
+                    }
+                },
+                {
+                    "id": 4,
+                    "product": {
+                        "name": "áo vest kẻ đen LH47",
+                        "price": "3050000",
+                        "img": "/products/vest4.png"
+                    }
+                },
+                {
+                    "id": 5,
+                    "product": {
+                        "name": "áo vest be xước",
+                        "price": "2800000",
+                        "img": "/products/vest5.png"
+                    }
+                },
+                {
+                    "id": 6,
+                    "product": {
+                        "name": "áo vest trắng 4 túi",
+                        "price": "2800000",
+                        "img": "/products/vest6.png"
+                    }
+                },
+                {
+                    "id": 7,
+                    "product": {
+                        "name": "áo vest nam kẻ tím LH44",
+                        "price": "3050000",
+                        "img": "/products/vest7.png"
+                    }
+                },
+                {
+                    "id": 8,
+                    "product": {
+                        "name": "áo vest ghi kẻ đỏ LH46",
+                        "price": "3050000",
+                        "img": "/products/vest8.png"
+                    }
+                },
+                {
+                    "id": 9,
+                    "product": {
+                        "name": "áo vest nam ghi xước kẻ LH49",
+                        "price": "3050000",
+                        "img": "/products/vest9.png"
+                    }
+                },
+                {
+                    "id": 10,
+                    "product": {
+                        "name": "áo vest be xước kẻ LH48",
+                        "price": "3050000",
+                        "img": "/products/vest10.png"
+                    }
+                },
+                {
+                    "id": 11,
+                    "product": {
+                        "name": "áo vest nam xanh đậm AV129",
+                        "price": "2550000",
+                        "img": "/products/vest11.png"
+                    }
+                },
+                {
+                    "id": 12,
+                    "product": {
+                        "name": "áo vest nam kẻ xanh ô đỏ avlh22",
+                        "price": "2800000",
+                        "img": "/products/vest12.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "vest cưới",
+            "product": [
+                {
+                    "id": 1,
+                    "product": {
+                        "name": "áo vest kẻ nâu LH47",
+                        "price": "3050000",
+                        "img": "/products/vest1.png"
+                    }
+                },
+                {
+                    "id": 2,
+                    "product": {
+                        "name": "áo vest xanh tt trơn",
+                        "price": "2900000",
+                        "img": "/products/vest2.png"
+                    }
+                },
+                {
+                    "id": 3,
+                    "product": {
+                        "name": "áo vest xanh trơn",
+                        "price": "2400000",
+                        "img": "/products/vest3.png"
+                    }
+                },
+                {
+                    "id": 4,
+                    "product": {
+                        "name": "áo vest kẻ đen LH47",
+                        "price": "3050000",
+                        "img": "/products/vest4.png"
+                    }
+                },
+                {
+                    "id": 5,
+                    "product": {
+                        "name": "áo vest be xước",
+                        "price": "2800000",
+                        "img": "/products/vest5.png"
+                    }
+                },
+                {
+                    "id": 6,
+                    "product": {
+                        "name": "áo vest trắng 4 túi",
+                        "price": "2800000",
+                        "img": "/products/vest6.png"
+                    }
+                },
+                {
+                    "id": 7,
+                    "product": {
+                        "name": "áo vest nam kẻ tím LH44",
+                        "price": "3050000",
+                        "img": "/products/vest7.png"
+                    }
+                },
+                {
+                    "id": 8,
+                    "product": {
+                        "name": "áo vest ghi kẻ đỏ LH46",
+                        "price": "3050000",
+                        "img": "/products/vest8.png"
+                    }
+                },
+                {
+                    "id": 9,
+                    "product": {
+                        "name": "áo vest nam ghi xước kẻ LH49",
+                        "price": "3050000",
+                        "img": "/products/vest9.png"
+                    }
+                },
+                {
+                    "id": 10,
+                    "product": {
+                        "name": "áo vest be xước kẻ LH48",
+                        "price": "3050000",
+                        "img": "/products/vest10.png"
+                    }
+                },
+                {
+                    "id": 11,
+                    "product": {
+                        "name": "áo vest nam xanh đậm AV129",
+                        "price": "2550000",
+                        "img": "/products/vest11.png"
+                    }
+                },
+                {
+                    "id": 12,
+                    "product": {
+                        "name": "áo vest nam kẻ xanh ô đỏ avlh22",
+                        "price": "2800000",
+                        "img": "/products/vest12.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "type": "sơ mi nam",
+            "product": [
+                {
+                    "id": 1,
+                    "product": {
+                        "name": "sơ mi tt kẻ trắng-c31",
+                        "price": "700000",
+                        "img": "/products/somi1.png"
+                    }
+                },
+                {
+                    "id": 2,
+                    "product": {
+                        "name": "sơ mi tt kẻ nâu-c33",
+                        "price": "700000",
+                        "img": "/products/somi2.png"
+                    }
+                },
+                {
+                    "id": 3,
+                    "product": {
+                        "name": " sơ mi kẻ nâu-c30",
+                        "price": "700000",
+                        "img": "/products/somi3.png"
+                    }
+                },
+                {
+                    "id": 4,
+                    "product": {
+                        "name": "sơ mi kẻ ghi đen-c29",
+                        "price": "700000",
+                        "img": "/products/somi4.png"
+                    }
+                },
+                {
+                    "id": 5,
+                    "product": {
+                        "name": " sơ mi kẻ đỏ-c27",
+                        "price": "700000",
+                        "img": "/products/somi5.png"
+                    }
+                },
+                {
+                    "id": 6,
+                    "product": {
+                        "name": "sơ mi kẻ đen ghi chìm",
+                        "price": "700000",
+                        "img": "/products/somi6.png"
+                    }
+                },
+                {
+                    "id": 7,
+                    "product": {
+                        "name": "sơ mi c771-1",
+                        "price": "600000",
+                        "img": "/products/somi7.png"
+                    }
+                },
+                {
+                    "id": 8,
+                    "product": {
+                        "name": "sơ mi c776",
+                        "price": "600000",
+                        "img": "/products/somi8.png"
+                    }
+                },
+                {
+                    "id": 9,
+                    "product": {
+                        "name": "sơ mi c773-1",
+                        "price": "600000",
+                        "img": "/products/somi9.png"
+                    }
+                },
+                {
+                    "id": 10,
+                    "product": {
+                        "name": "sơ mi c772",
+                        "price": "600000",
+                        "img": "/products/somi10.png"
+                    }
+                },
+                {
+                    "id": 11,
+                    "product": {
+                        "name": "sơ mi đen thêu",
+                        "price": "700000",
+                        "img": "/products/somi11.png"
+                    }
+                },
+                {
+                    "id": 12,
+                    "product": {
+                        "name": "sơ mi đen viền đỏ cổ",
+                        "price": "750000",
+                        "img": "/products/somi12.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "type": "áo phông nam",
+            "product": [
+                {
+                    "id": 1,
+                    "product": {
+                        "name": "áo phông ap8661 đen",
+                        "price": "550000",
+                        "img": "/products/phong1.png"
+                    }
+                },
+                {
+                    "id": 2,
+                    "product": {
+                        "name": "áo phông ap8660 đen",
+                        "price": "600000",
+                        "img": "/products/phong2.png"
+                    }
+                },
+                {
+                    "id": 3,
+                    "product": {
+                        "name": "áo phông ap8659 trắng",
+                        "price": "600000",
+                        "img": "/products/phong3.png"
+                    }
+                },
+                {
+                    "id": 4,
+                    "product": {
+                        "name": "áo phông ap8659 đen",
+                        "price": "600000",
+                        "img": "/products/phong4.png"
+                    }
+                },
+                {
+                    "id": 5,
+                    "product": {
+                        "name": "áo phông ap8646 đỏ",
+                        "price": "550000",
+                        "img": "/products/phong5.png"
+                    }
+                },
+                {
+                    "id": 6,
+                    "product": {
+                        "name": "áo phông ap8603 trắng",
+                        "price": "550000",
+                        "img": "/products/phong6.png"
+                    }
+                },
+                {
+                    "id": 7,
+                    "product": {
+                        "name": "áo phông ap8601 trắng",
+                        "price": "550000",
+                        "img": "/products/phong7.png"
+                    }
+                },
+                {
+                    "id": 8,
+                    "product": {
+                        "name": "áo phông ap8601 đen",
+                        "price": "550000",
+                        "img": "/products/phong8.png"
+                    }
+                },
+                {
+                    "id": 9,
+                    "product": {
+                        "name": "áo phông ap8601 adam đen",
+                        "price": "550000",
+                        "img": "/products/phong9.png"
+                    }
+                },
+                {
+                    "id": 10,
+                    "product": {
+                        "name": "áo phông ap trắng tim",
+                        "price": "550000",
+                        "img": "/products/phong10.png"
+                    }
+                },
+                {
+                    "id": 11,
+                    "product": {
+                        "name": "áo phông ap trắng logo 07",
+                        "price": "550000",
+                        "img": "/products/phong11.png"
+                    }
+                },
+                {
+                    "id": 12,
+                    "product": {
+                        "name": "áo phông ap ghi kẻ ngang",
+                        "price": "550000",
+                        "img": "/products/phong12.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "type": "giày da nam",
+            "product": [
+                {
+                    "id": 1,
+                    "product": {
+                        "name": "giày da công sở da sần đen",
+                        "price": "1650000",
+                        "img": "/products/giay1.png"
+                    }
+                },
+                {
+                    "id": 2,
+                    "product": {
+                        "name": "giày da công sở g407 đen",
+                        "price": "1650000",
+                        "img": "/products/giay2.png"
+                    }
+                },
+                {
+                    "id": 3,
+                    "product": {
+                        "name": "giày da đen g211",
+                        "price": "1650000",
+                        "img": "/products/giay3.png"
+                    }
+                },
+                {
+                    "id": 4,
+                    "product": {
+                        "name": "giày da đen bóng lỗ g181",
+                        "price": "1650000",
+                        "img": "/products/giay4.png"
+                    }
+                },
+                {
+                    "id": 5,
+                    "product": {
+                        "name": "giày da lười đen",
+                        "price": "1650000",
+                        "img": "/products/giay5.png"
+                    }
+                },
+                {
+                    "id": 6,
+                    "product": {
+                        "name": "giày da lười cao cấp g40622",
+                        "price": "1700000",
+                        "img": "/products/giay6.png"
+                    }
+                },
+                {
+                    "id": 7,
+                    "product": {
+                        "name": "giày da lười mận thừng",
+                        "price": "1600000",
+                        "img": "/products/giay7.png"
+                    }
+                },
+                {
+                    "id": 8,
+                    "product": {
+                        "name": "giày da lười mận",
+                        "price": "1650000",
+                        "img": "/products/giay8.png"
+                    }
+                },
+                {
+                    "id": 9,
+                    "product": {
+                        "name": "giày da monk trap đen",
+                        "price": "1650000",
+                        "img": "/products/giay9.png"
+                    }
+                },
+                {
+                    "id": 10,
+                    "product": {
+                        "name": "giày da nam cao cấp nâu",
+                        "price": "1650000",
+                        "img": "/products/giay10.png"
+                    }
+                },
+                {
+                    "id": 11,
+                    "product": {
+                        "name": "giày da nam đen vảy",
+                        "price": "1650000",
+                        "img": "/products/giay11.png"
+                    }
+                },
+                {
+                    "id": 12,
+                    "product": {
+                        "name": "giày da nam loafer đen",
+                        "price": "1650000",
+                        "img": "/products/giay12.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "type": "quần âu nam",
+            "product": [
+                {
+                    "id": 1,
+                    "product": {
+                        "name": "quần âu kẻ đen",
+                        "price": "700000",
+                        "img": "/products/quan1.png"
+                    }
+                },
+                {
+                    "id": 2,
+                    "product": {
+                        "name": "quần âu kẻ ghi",
+                        "price": "700000",
+                        "img": "/products/quan2.png"
+                    }
+                },
+                {
+                    "id": 3,
+                    "product": {
+                        "name": "quần âu kẻ xanh đen",
+                        "price": "700000",
+                        "img": "/products/quan3.png"
+                    }
+                },
+                {
+                    "id": 4,
+                    "product": {
+                        "name": "quần âu qbe xước",
+                        "price": "700000",
+                        "img": "/products/quan4.png"
+                    }
+                },
+                {
+                    "id": 5,
+                    "product": {
+                        "name": "quần âu qbe xước kẻ lh48",
+                        "price": "700000",
+                        "img": "/products/quan5.png"
+                    }
+                },
+                {
+                    "id": 6,
+                    "product": {
+                        "name": "quần âu qbe đen chéo",
+                        "price": "700000",
+                        "img": "/products/quan6.png"
+                    }
+                },
+                {
+                    "id": 7,
+                    "product": {
+                        "name": "quần âu qbe đen kẻ",
+                        "price": "700000",
+                        "img": "/products/quan7.png"
+                    }
+                },
+                {
+                    "id": 8,
+                    "product": {
+                        "name": "quần âu qbe đen kẻ",
+                        "price": "700000",
+                        "img": "/products/quan8.png"
+                    }
+                },
+                {
+                    "id": 9,
+                    "product": {
+                        "name": "quần âu q ghi 196",
+                        "price": "700000",
+                        "img": "/products/quan9.png"
+                    }
+                },
+                {
+                    "id": 10,
+                    "product": {
+                        "name": "quần âu q ghi kẻ",
+                        "price": "700000",
+                        "img": "/products/quan10.png"
+                    }
+                },
+                {
+                    "id": 11,
+                    "product": {
+                        "name": "quần âu q ghi kẻ chỉ trắng",
+                        "price": "700000",
+                        "img": "/products/quan11.png"
+                    }
+                },
+                {
+                    "id": 12,
+                    "product": {
+                        "name": "quần âu q ghi kẻ-235",
+                        "price": "700000",
+                        "img": "/products/quan12.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "blogs": [
+        {
+            "id": 1,
+            "type": "News",
+            "posts": [
+                {
+                    "id": 1,
+                    "title": "CÙNG ADAM STORE ĐẾN TRIỂN LÃM CƯỚI HWP 2019 - TRONG VEO - TRIỂN LÃM CƯỚI LỚN NHẤT VIỆT NAM"
+                },
+                {
+                    "id": 2,
+                    "title": "NHỮNG MẪU GIÀY ÂU MÙA HÈ CHO NAM MỚI NHẤT"
+                },
+                {
+                    "id": 3,
+                    "title": "CÁCH MIX ĐỒ THỜI TRANG NAM DU LỊCH HÈ NĂM 2019"
+                },
+                {
+                    "id": 4,
+                    "title": "5 LỰA CHỌN QUẦN ÂU NAM ĐẸP CHO THỜI TIẾT HÈ"
+                },
+                {
+                    "id": 5,
+                    "title": "THỜI TRANG SƠ MI NAM CHO MÙA HÈ NĂNG ĐỘNG"
+                },
+                {
+                    "id": 6,
+                    "title": "NHIKOLAI ĐINH, THUẬN NGUYỄN GỢI Ý SUIT CƯỚI 'BẮT TREND' CHO CHÚ RỂ"
+                },
+                {
+                    "id": 7,
+                    "title": "BỐ SƠN LỰA CHỌN VEST ĐỂ CHUẨN BỊ ĐÓN MẸ CHO 3 CHỊ EM TRONG “VỀ NHÀ ĐI CON”"
+                },
+                {
+                    "id": 1,
+                    "title": "CÁC CẦU THỦ ĐỘI TUYỂN QUỐC GIA BẢNH BAO, CUỐN HÚT TRONG TRANG PHỤC VEST ADAM"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "Khuyến mãi",
+            "posts": [
+                {
+                    "id": 1,
+                    "title": "SẮM VEST SANG - NHẬN NGAY QUÀ VÀNG LÊN ĐẾN 30 TRIỆU VNĐ"
+                },
+                {
+                    "id": 2,
+                    "title": "SĂN SALE GIẢI NHIỆT UP TO 50%"
+                },
+                {
+                    "id": 3,
+                    "title": "MEN ‘S SUITS | SUMMER COLLECTION 2020"
+                },
+                {
+                    "id": 4,
+                    "title": "COMBO KHÔNG THỂ BỎ QUA CHO CHÀNG CÔNG SỞ"
+                },
+                {
+                    "id": 5,
+                    "title": "ƯU ĐÃI KHỦNG - COMBO SANG ĐẬP TAN HOANG MANG"
+                },
+                {
+                    "id": 6,
+                    "title": "MUA VEST CƯỚI NHẬN QUÀ SANG"
+                },
+                {
+                    "id": 7,
+                    "title": "XUÂN SANG CƯỚI NÀNG - NHẬN NGÀN QUÀ TẶNG"
+                },
+                {
+                    "id": 8,
+                    "title": "XUÂN SANG CƯỚI NÀNG - RINH NGÀN QUÀ TẶNG"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "type": "Adam và báo chí",
+            "posts": [
+                {
+                    "id": 1,
+                    "title": "MC TRUYỀN HÌNH VTV - PHONG CÁCH ĐIỂN TRAI TRONG TRANG PHỤC ADAM STORE"
+                },
+                {
+                    "id": 2,
+                    "title": "ADAM STORE ĐỒNG HÀNH CÙNG “NGƯỜI ẤY LÀ AI”"
+                },
+                {
+                    "id": 3,
+                    "title": "ADAM STORE - CHẮP CÁNH ƯỚC MƠ CHO CUỘC THI NEU GLAMOUR 2019"
+                },
+                {
+                    "id": 4,
+                    "title": "(SOHA.VN) GỢI Ý MẶC VEST ”CHUẨN KHỎI CHỈNH” NHƯ 2 ”SOÁI CA” SHOWBIZ VIỆT"
+                },
+                {
+                    "id": 5,
+                    "title": "(MARRY.VN) MẸO TIẾT KIỆM CHI PHÍ VEST CƯỚI TỪ ADAM STORE"
+                },
+                {
+                    "id": 6,
+                    "title": "[BRIDAL.VN] ADAM STORE – THƯƠNG HIỆU VIỆT, ĐẲNG CẤP QUỐC TẾ"
+                },
+                {
+                    "id": 7,
+                    "title": "THE TUXEDO GÂY BÃO VỚI PHONG CÁCH VEST ÂU “VƯỢT THỜI GIAN”"
+                },
+                {
+                    "id": 8,
+                    "title": "TÂM ĐIỂM WORLD CUP – ADAM STORE VỚI BỘ ẢNH & CLIP SIÊU CHẤT"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "type": "Ưu đãi đối tác Adam",
+            "posts": [
+                {
+                    "id": 1,
+                    "title": "[ADAM STORE - MỘC STUDIO] NHẬN VOUCHER 500K CHO GÓI CHỤP ẢNH CƯỚI TỪ 5500K"
+                },
+                {
+                    "id": 2,
+                    "title": "TẶNG VÁY TIỆC TRỊ GIÁ TỚI 40.000.000 TỪ CALLA BRIDAL"
+                },
+                {
+                    "id": 3,
+                    "title": "VOUCHER ƯU ĐÃI TRỊ GIÁ 1.350.000Đ TỪ TUART WEDDING"
+                },
+                {
+                    "id": 4,
+                    "title": "NHẬN NGAY ƯU ĐÃI 10% GÓI CHỤP TỪ MR.LEE STUDIO"
+                },
+                {
+                    "id": 5,
+                    "title": "NHẬN ƯU ĐÃI 500.000Đ TỪ HUY THANH JEWELRY"
+                },
+                {
+                    "id": 6,
+                    "title": "GIẢM GIÁ 20% VÁY CƯỚI TẠI LINH NGA BRIDAL"
+                },
+                {
+                    "id": 7,
+                    "title": "VOUCHER QUÀ TẶNG 1.000.000 ĐỒNG TỪ HOANGTHAI PHOTOGRAPHER"
+                },
+                {
+                    "id": 8,
+                    "title": "GIẢM NGAY 10% TẠI FRIDAY WEDDING"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "type": "Sao Việt và Khách hàng",
+            "posts": [
+                {
+                    "id": 1,
+                    "title": "STARRY NIGHT - NHỮNG VÌ SAO TINH TÚ"
+                },
+                {
+                    "id": 2,
+                    "title": "KHẲNG ĐỊNH ĐẲNG CẤP VỊ THẾ"
+                },
+                {
+                    "id": 3,
+                    "title": "CA SĨ QUÂN A.P - SANG TRỌNG BẢNH BAO TRONG BỘ SƯU TẬP SUIT 2020 CỦA ADAM STORE"
+                },
+                {
+                    "id": 4,
+                    "title": "CÙNG CA SĨ QUÂN A.P KHÁM PHÁ XU HƯỚNG HỌA TIẾT SƠ MI 2020."
+                },
+                {
+                    "id": 5,
+                    "title": "TIẾN LINH ĐIỂN TRAI HÚT HỒN FAN NỮ KHI DIỆN SUIT"
+                },
+                {
+                    "id": 6,
+                    "title": "ADAM STORE - TỰ TIN TỎA SÁNG – VỮNG BƯỚC THÀNH CÔNG"
+                },
+                {
+                    "id": 7,
+                    "title": "VEST ADAM - TRANG PHỤC ĐƯỢC HƠN 500.000 CẶP ĐÔI TIN TƯỞNG LỰA CHỌN"
+                },
+                {
+                    "id": 8,
+                    "title": "5 LÝ DO NÊN MUA HÀNG TẠI ADAM STORE TRONG MÙA HÈ NÀY"
+                }
+            ]
+        }
+    ]
+}

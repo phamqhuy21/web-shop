@@ -1,0 +1,55 @@
+.customer-star .title-customer {
+  display: flex;
+  justify-content: center;
+}
+
+.customer-cover .slide-customer {
+  width: 90%;
+  height: 20rem;
+  margin: auto;
+
+  overflow: hidden;
+}
+
+.slide-customer ul {
+  width: 105rem;
+
+  animation: customer 10s ease infinite;
+}
+
+@keyframes customer {
+  10% {
+    margin-left: 0;
+  }
+  95% {
+    margin-left: -33rem;
+  }
+}
+
+.slide-customer > ul > li {
+  display: inline-block;
+
+  width: 13rem;
+  height: 20rem;
+  margin: 1rem;
+
+  background-color: #262626;
+
+  list-style: none;
+}
+
+.show-customer {
+  display: flex;
+  justify-content: center;
+}
+
+.show-customer button {
+  margin: 3rem;
+  padding: 0.5rem 1.5rem;
+
+  background-color: #fff;
+  color: #000000;
+  border: 0.1rem solid #000000;
+  border-radius: 0.2rem;
+  font-weight: bold;
+}

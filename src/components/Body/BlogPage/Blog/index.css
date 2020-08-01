@@ -1,0 +1,6 @@
+.blog-body {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 4%;
+    margin: 0.5%;
+}

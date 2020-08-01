@@ -1,0 +1,108 @@
+#slider {
+    overflow: hidden;
+}
+
+#slider figure {
+    position: relative;
+    width: 500%;
+    margin: 0;
+    left: 0;
+    /* animation: 20s slider infinite; */
+    transition: 0.6s;
+}
+
+/* #slider figure img {
+    width: 20%;
+    height: 38em;
+    float: left;
+} */
+#slider figure .img-slider {
+    width: 20%;
+    height: 38em;
+    float: left;
+}
+
+#slider figure #img-slider1 {
+    background-image: url('/adam.PNG');
+}
+
+#slider figure #img-slider2 {
+    background-image: url('/adam7.PNG');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+#slider figure #img-slider3 {
+    background-image: url('/adam8.PNG');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.navigation {
+    position: absolute;
+    /* bottom: 20px; */
+    top: 39rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+}
+
+.navigation .bar {
+    margin: 0.5rem;
+
+    width: 0.8rem;
+    height: 0.8rem;
+    border: 0.005rem solid #fff;
+    border-radius: 2rem;
+
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.bar:hover {
+    background: #fff;
+}
+
+input[name='r'] {
+    position: absolute;
+    visibility: hidden;
+}
+
+#r1:checked ~ .navigation label:nth-child(1),
+#r2:checked ~ .navigation label:nth-child(2),
+#r3:checked ~ .navigation label:nth-child(3) {
+    background-color: #fff;
+}
+
+#r1:checked ~ figure {
+    left: 0;
+}
+#r2:checked ~ figure {
+    left: -100%;
+}
+#r3:checked ~ figure {
+    left: -200%;
+}
+
+/* @keyframes slider {
+  0% {
+    left: 0;
+  }
+  20% {
+    left: 0;
+  }
+  25% {
+    left: -100%;
+  }
+  45% {
+    left: -100%;
+  }
+  50% {
+    left: -200%;
+  }
+  70% {
+    left: -200%;
+  }
+} */

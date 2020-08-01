@@ -1,0 +1,82 @@
+.collection {
+    margin-top: 3rem;
+}
+
+.collection .title-collection {
+    display: flex;
+    justify-content: center;
+}
+
+.collection .btn-collection {
+    width: 80%;
+    margin: auto;
+
+    text-align: center;
+}
+
+.collection > .btn-collection > button {
+    margin: 0.2rem;
+    padding: 0.4rem 0.8rem;
+
+    border: 0.2rem solid #d6d6d6;
+    background-color: #fff;
+    font-weight: bold;
+
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.collection > .btn-collection > button:hover {
+    border-color: #262626;
+}
+
+.slide-products {
+    width: 90%;
+    height: 20rem;
+    margin: auto;
+
+    overflow: hidden;
+}
+
+.slide-products ul {
+    width: 105rem;
+
+    animation: products 10s ease infinite;
+}
+
+@keyframes products {
+    10% {
+        margin-left: 0;
+    }
+    95% {
+        margin-left: -20rem;
+    }
+}
+
+.slide-products > ul > li {
+    display: inline-block;
+
+    width: 13rem;
+    height: 20rem;
+    margin: 1rem;
+
+    background-color: #262626;
+
+    list-style: none;
+}
+
+.show-products {
+    display: flex;
+    justify-content: center;
+}
+
+.show-products button {
+    margin: 3rem;
+    padding: 0.5rem 1.5rem;
+
+    background-color: #fff;
+    color: #000000;
+    border: 0.1rem solid #000000;
+    border-radius: 0.2rem;
+    font-weight: bold;
+}
